@@ -1,2 +1,2 @@
-Alx C project
-Simple Shell Project
+Alx C projects
+first Simple Shell Project
