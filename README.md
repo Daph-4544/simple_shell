@@ -5,6 +5,6 @@ The shell is the Linux command line interpreter. It provides an interface betwee
 This simple_shell project, is a custom implementation of a simple UNIX shell as a requirement to complete the first sprint in the ALX - Holberton school 12-month SE program. Taking a minimalistic approach, the following functions have been implemented: access, execve, exit, fork, free, fstat, getline, malloc, perror, signal, stat, wait, write.
 
 Authored by:
-Anitah Aturinda and Ann Gilbert
+Daphine matagi and jeffrey kirigo
 ALX - HOLBERTON Projects
 Collaboration on the Simple Shell Project.
